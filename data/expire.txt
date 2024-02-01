@@ -1,0 +1,14 @@
+OrangeJuice	30/03/2023	12	3.45	Drink
+Strawberries	31/03/2023	44	2.33	Fruits
+Chicken	01/04/2023	2	5.67	Meat
+Pineapple	05/04/2023	5	4.67	Fruits
+Onion	16/08/2023	25	1.52	Vegetable
+Pepsi	09/10/2023	5	2.03	Drinks
+Ice-cream	11/10/2023	10	4.59	Freezer
+Jam	08/11/2023	3	30.5	Bread&spreads
+Potatoes	14/11/2023	20	2.34	Vegetables
+Meat	15/11/2023	6	5.65	Meat
+Potatoes	14/11/2023	20	2.34	Vegetables
+Meat	15/11/2023	6	5.65	Meat
+Onion	15/11/2023	25	1.52	Vegetable
+Bananas	17/11/2023	22	1.22	Fruit
